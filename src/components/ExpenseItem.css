@@ -1,0 +1,32 @@
+.expense-item {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid rgb(34, 33, 33);
+    border-radius: 30px;
+    box-shadow: 8px 8px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+.expense-item__description {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 2px;
+}
+
+.expense-item__description h2 {
+    color: white;
+}
+
+.expense-item__price {
+   background-color: rebeccapurple;
+   color: white;
+   width: 10%;
+   height: 70%;
+   border: 2px solid white;
+   border-radius: 10px;
+   margin-top: 10px;
+   padding: 10px 35px;
+}
