@@ -1,0 +1,9 @@
+.chart {
+    display: flex;
+    background-color: rgb(232, 158, 158);
+    width: 80rem;
+    height: 12rem;
+    margin: auto;
+    justify-content: space-around;
+}
+
